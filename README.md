@@ -1,6 +1,8 @@
 ![image](https://github.com/zengxiaolou/gitee_scrapy/blob/master/analyze/test.svg)
+
 ###简介
-    该项目有用练手，通过scrapy-redis对等分布式爬取gitee网站[ www.gitee.com]上开源的所有项目信息
+    该项目有用练手，通过scrapy-redis对等分布式爬取gitee网站[ www.gitee.com](http://www.google.com/)
+    上开源的所有项目信息
     使用mongoDB作为数据库保存数据
     通过pandas、numpy、matplotlib等第三方库进行数据分析
 
